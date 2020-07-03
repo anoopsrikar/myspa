@@ -1,5 +1,5 @@
 # AEM SPA Project
-
+Release 7/3 Update for MY SPA
 **This is a single-page application (SPA) project generated from the [AEM SPA Project Archetype](https://github.com/adobe/aem-spa-project-archetype).**
 
 ## Modules
